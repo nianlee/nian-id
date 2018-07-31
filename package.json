@@ -1,0 +1,17 @@
+{
+  "name": "nian-id",
+  "version": "1.0.0",
+  "description": "package build",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./_test.js ./test/index.js"
+  },
+  "author": "nian",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-traverse": "^6.26.0"
+  }
+}
